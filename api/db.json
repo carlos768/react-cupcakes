@@ -1,0 +1,136 @@
+{
+  "cupcakes": [
+    {
+      "id": 1,
+      "numero": 1,
+      "sabor": "Vainilla",
+      "color": "Amarillo",
+      "descripcion": "Cupcake sabor vainilla",
+      "precio": 100,
+      "imagen": "https://www.splenda.com/wp-content/uploads/2020/09/keto-vanilla-cupcakes-thumb.jpg",
+      "vendido": false
+    },
+    {
+      "id": 2,
+      "numero": 2,
+      "sabor": "Chocolate",
+      "color": "Cafe",
+      "descripcion": "Cupcake sabor chocolate",
+      "precio": 120,
+      "imagen": "https://970universal.com/wp-content/uploads/2021/06/cupcakee.jpg",
+      "vendido": false
+    },
+    {
+      "id": 3,
+      "numero": 3,
+      "sabor": "Fresa",
+      "color": "Rosa",
+      "descripcion": "Cupcake sabor fresa",
+      "precio": 140,
+      "imagen": "https://www.biggerbolderbaking.com/wp-content/uploads/2020/07/Strawberry-Cupcakes-WS-Thumbnail-500x500.jpg",
+      "vendido": false
+    },
+    {
+      "id": 4,
+      "numero": 4,
+      "sabor": "Naranja",
+      "color": "Naranja",
+      "descripcion": "Cupcake sabor naranja",
+      "precio": 80,
+      "imagen": "https://www.eatingonadime.com/wp-content/uploads/2016/03/orange-soda-cupcakes-square-1.jpg",
+      "vendido": false
+    },
+    {
+      "id": 5,
+      "numero": 5,
+      "sabor": "Mora",
+      "color": "Morado",
+      "descripcion": "Cupcake sabor mora",
+      "precio": 60,
+      "imagen": "https://pasteleriabarea.cl/39-large_default/cupcake-chocolate-relleno-mora.jpg",
+      "vendido": false
+    },
+    {
+      "id": 6,
+      "numero": 6,
+      "sabor": "Coco",
+      "color": "Blanco",
+      "descripcion": "Cupcake sabor coco",
+      "precio": 200,
+      "imagen": "https://charlotteslivelykitchen.com/wp-content/uploads/2018/01/coconut-buttercream-1.jpg",
+      "vendido": false
+    },
+    {
+      "id": 7,
+      "numero": 7,
+      "sabor": "Manjar",
+      "color": "Cafe",
+      "descripcion": "Cupcake sabor manjar",
+      "precio": 130,
+      "imagen": "https://charlotteslivelykitchen.com/wp-content/uploads/2017/01/Caramel-Cupcakes-2.jpg",
+      "vendido": false
+    },
+    {
+      "id": 8,
+      "numero": 8,
+      "sabor": "Chocolate blanco",
+      "color": "Blanco",
+      "descripcion": "Cupcake sabor chocolate blanco",
+      "precio": 120,
+      "imagen": "https://www.pamperedchef.com/iceberg/com/recipe/100348-lg.jpg",
+      "vendido": false
+    },
+    {
+      "id": 9,
+      "numero": 9,
+      "sabor": "Plátano",
+      "color": "Amarillo",
+      "descripcion": "Cupcake sabor plátano",
+      "precio": 140,
+      "imagen": "https://www.livewellbakeoften.com/wp-content/uploads/2021/06/Banana-Cupcakes-9s.jpg",
+      "vendido": false
+    },
+    {
+      "id": 10,
+      "numero": 10,
+      "sabor": "Menta",
+      "color": "Verde",
+      "descripcion": "Cupcake sabor menta",
+      "precio": 250,
+      "imagen": "https://handletheheat.com/wp-content/uploads/2012/08/Chocolate-Mint-Cupcakes-SQUARE.jpg",
+      "vendido": false
+    },
+    {
+      "id": 11,
+      "numero": 11,
+      "sabor": "Metal",
+      "color": "Oro",
+      "descripcion": "Cupcake de oro",
+      "precio": 150000,
+      "imagen": "https://i.ibb.co/6Jx6P1T/golden-cupcake.png",
+      "vendido": false
+    },
+    {
+      "id": 12,
+      "numero": 12,
+      "sabor": "Desconocido",
+      "color": "Sin color",
+      "descripcion": "Cupcake sabor misterioso",
+      "precio": 1,
+      "imagen": "https://ohmycupcakes.com/storage/full/OMC%20MysteryCupcake_Mini.jpg",
+      "vendido": false
+    }
+  ],
+  "servicios": [
+    {
+      "id": 1,
+      "nombre": "Curso de reposteria",
+      "descripcion": "Este es un curso desde cero que te enseñará a hacer cupcakes"
+    },
+    {
+      "id": 2,
+      "nombre": "Delivery a toda la ciudad",
+      "descripcion": "Pide desde donde quieras y los cupcakes llegarán a tu casa"
+    }
+  ]
+}
