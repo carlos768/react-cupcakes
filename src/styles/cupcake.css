@@ -71,11 +71,12 @@
     /* gap: 1rem; */
     grid-template-columns: repeat(auto-fill, minmax(25rem, 1fr));
     justify-items: center;
+    justify-content: center;
     /* grid-template-columns: repeat(4, auto); */
 }
 
 .cupcake{
-    width: 25rem;
+    width: 356px;
     margin: .5rem;
     margin-bottom: 1rem;
     padding: 1rem;
@@ -94,6 +95,7 @@
 
 .cupcake-img-container img{
     width: 100%;
+    height: 324px;
 }
 
 .servicios{
